@@ -32,7 +32,7 @@ fn main() {
     let _f: bool = false;
 
     let t = false;
-    if !t {
+    if t {
         println!("hello, world");
     }
 } 
